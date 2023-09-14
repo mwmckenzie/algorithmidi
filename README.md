@@ -32,13 +32,13 @@ The shortness of the songs help make it easy to note the variation in the genera
 
 The shortness also allows for easy observation of the generators 'endless' capabilities.
 
-[Invention 8 - generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-08-01-b175276c?revId=04606437-244c-ee11-9937-000d3a41ec2a)
+[Invention 8 - Generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-08-01-b175276c?revId=04606437-244c-ee11-9937-000d3a41ec2a)
 
-[Invention 8 - generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-08-02-5c494746?revId=7a604473-244c-ee11-9937-000d3a41ec2a)
+[Invention 8 - Generation 2](https://www.bandlab.com/lt_commando/generating-bach-invention-08-02-5c494746?revId=7a604473-244c-ee11-9937-000d3a41ec2a)
 
-[Invention 1 - generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-01-02-8a811cb4?revId=519da16d-274c-ee11-9937-000d3a41ec2a)
+[Invention 1 - Generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-01-02-8a811cb4?revId=519da16d-274c-ee11-9937-000d3a41ec2a)
 
-[Invention 4 - generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-04-01-af757333?revId=d1725eff-254c-ee11-9937-000d3a41ec2a)
+[Invention 4 - Generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-04-01-af757333?revId=d1725eff-254c-ee11-9937-000d3a41ec2a)
 
 
 
