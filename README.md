@@ -87,6 +87,11 @@ Re-Generated Songs From Various Categories & Composers
 
 &nbsp;
 
+## Chopin
+[Playlist](https://www.bandlab.com/lt_commando/collections/13f3cefd-3560-ee11-9937-000d3a41ec2a)
+
+&nbsp;
+
 ## Brahms
 [Playlist](https://www.bandlab.com/lt_commando/collections/b031a557-fa5e-ee11-9937-000d3a41ec2a)
 
