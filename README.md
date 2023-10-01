@@ -106,3 +106,8 @@ Re-Generated Songs From Various Categories & Composers
 [Playlist](https://www.bandlab.com/lt_commando/collections/85bd1b56-205f-ee11-9937-000d3a41ec2a)
 
 &nbsp;
+
+## Traditions & Holidays
+[Playlist](https://www.bandlab.com/lt_commando/collections/743e07c5-3260-ee11-9937-000d3a41ec2a)
+
+&nbsp;
