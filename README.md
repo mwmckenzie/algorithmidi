@@ -14,7 +14,7 @@ A song everyone should be familiar with helps to highlight how the generator cap
 
 Diverges and branches just enough to present a different experience in the end.
 
-Also gives a bit of insight into the 'endless' aspect of the song gen, as this example stretches the song to create a non-looping 15 minute playthrough.
+Also gives a bit of insight into the 'endless' aspect of the song gen, as this example stretches the song to create a 15 minute playthrough with non-repeating fractal variations.
 
 [Generation 1](https://www.bandlab.com/lt_commando/generating-pachabel-canon-03-bb776092?revId=1d99c664-f73f-ee11-b8f0-000d3a41ec20)
 
@@ -28,7 +28,7 @@ Regardless, the generator endlessly weaves various themes and passages of the wo
 
 [Generation 1](https://www.bandlab.com/lt_commando/generating-bach-toccata-and-fugue-1-a2bcb7b8?revId=ab1e56c6-ba42-ee11-b8f0-000d3a41ec20)
 
-When fed a piano rendition of the fugue the generator produces another unique variation of the fugue.
+When fed a piano rendition of the fugue the generator produces another unique variation that is able to fractally loop infinitely (Playback truncated for the web).
 
 [Generation 2 (Piano)](https://www.bandlab.com/post/5edc6352-d15d-ee11-9937-000d3a41ec2a)
 
