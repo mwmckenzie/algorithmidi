@@ -1,8 +1,12 @@
 # algorithmidi
 Endless Midi Composition Regenerator
 
+&nbsp;
+
 # Example Songs
 Standout examples of well-known songs or interesting variational output
+
+&nbsp;
 
 ### Pachabel's Canon
 
@@ -14,6 +18,7 @@ Also gives a bit of insight into the 'endless' aspect of the song gen, as this e
 
 [Generation 1](https://www.bandlab.com/lt_commando/generating-pachabel-canon-03-bb776092?revId=1d99c664-f73f-ee11-b8f0-000d3a41ec20)
 
+&nbsp;
 
 ### Bach's Toccata and Fugue in D Minor
 
@@ -23,6 +28,11 @@ Regardless, the generator endlessly weaves various themes and passages of the wo
 
 [Generation 1](https://www.bandlab.com/lt_commando/generating-bach-toccata-and-fugue-1-a2bcb7b8?revId=ab1e56c6-ba42-ee11-b8f0-000d3a41ec20)
 
+When fed a piano rendition of the fugue the generator produces another unique variation of the fugue.
+
+[Generation 2 (Piano)](https://www.bandlab.com/post/5edc6352-d15d-ee11-9937-000d3a41ec2a)
+
+&nbsp;
 
 ### Bach's Invention Series
 
@@ -40,23 +50,54 @@ The shortness also allows for easy observation of the generators 'endless' capab
 
 [Invention 4 - Generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-04-01-af757333?revId=d1725eff-254c-ee11-9937-000d3a41ec2a)
 
-
-
+&nbsp;
 
 # Example Collections
 Re-Generated Songs From Various Categories & Composers
 
+&nbsp;
+
 ## Bach
 [Playlist](https://www.bandlab.com/lt_commando/collections/99b81844-a13d-ee11-b8f0-000d3a41ec20)
+
+&nbsp;
 
 ## Beethoven
 [Playlist](https://www.bandlab.com/lt_commando/collections/f4edb793-933f-ee11-b8f0-000d3a41ec20)
 
+&nbsp;
+
 ## Pachabel
 [Playlist](https://www.bandlab.com/lt_commando/collections/eed0649d-8241-ee11-b8f0-000d3a41ec20)
+
+&nbsp;
 
 ## Joplin
 [Playlist](https://www.bandlab.com/lt_commando/collections/28aadae2-834a-ee11-9937-000d3a41ec2a)
 
+&nbsp;
+
+## Lizst
+[Playlist](https://www.bandlab.com/lt_commando/collections/92aaae3f-fa5e-ee11-9937-000d3a41ec2a)
+
+&nbsp;
+
+## Mozart
+[Playlist](https://www.bandlab.com/lt_commando/collections/ec1d284e-065f-ee11-9937-000d3a41ec2a)
+
+&nbsp;
+
+## Brahms
+[Playlist](https://www.bandlab.com/lt_commando/collections/b031a557-fa5e-ee11-9937-000d3a41ec2a)
+
+&nbsp;
+
 ## Jazz
 [Playlist](https://www.bandlab.com/lt_commando/collections/06b849a1-294c-ee11-9937-000d3a41ec2a)
+
+&nbsp;
+
+## Covers (Modern)
+[Playlist](https://www.bandlab.com/lt_commando/collections/85bd1b56-205f-ee11-9937-000d3a41ec2a)
+
+&nbsp;
