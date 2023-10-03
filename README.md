@@ -12,7 +12,7 @@ The significant difference between the MMM algorithm and current LLLMs is the ab
 
 Being dependent on a single training example, the MMM output quality and the level of variation from the original song are proportional to suitability of the input midi file. 
 
-Regardless, in almost all cases the MMM algorithm is able to generate practially infinite coherent and stable procedurally generated song variations.
+Regardless, in almost all cases the MMM algorithm is able to find a stable and coherent trained model from which it can procedurally generate effectively infinite song variations.
 
 &nbsp;
 
