@@ -3,8 +3,12 @@ Algorithmidi is an application for creating and visualising procedurally generat
 
 The song generation currently utilises a novel <b>Micro Music Model (MMM)</b> algorithm that trains on-demand using a single midi file in only a few seconds.
 
+&nbsp;
+
 ## The Micro Music Model (MMM)
 The <b>Micro Music Model (MMM)</b> that Algorithmidi uses behind the scenes is a novel algorithm that shares many of the same design elements of modern Large Language Models (LLMs).
+
+&nbsp;
 
 ## Desktop Application In Development
 The Algorithmidi desktop application is currently in development with a demo version currently undergoing testing with a targeted Fall 2023 release. 
