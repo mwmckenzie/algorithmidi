@@ -6,7 +6,13 @@ Song generation within the application currently utilises a novel <b>Micro Music
 &nbsp;
 
 ## The Micro Music Model (MMM)
-The <b>Micro Music Model (MMM)</b> that Algorithmidi uses behind the scenes is a novel algorithm that shares many of the same design elements of modern Large Language Models (LLMs).
+The <b>Micro Music Model (MMM)</b> that Algorithmidi uses behind the scenes is a novel ML algorithm with an approach that is remarkably similar to modern Large Language Models (LLMs). 
+
+The significant difference between the MMM algorithm and current LLLMs is the ability for the MMM to train on a single example song locally and in real-time. Hence the 'Micro' in MMM.
+
+Being dependent on a single training example, the MMM output quality and the level of variation from the original song are proportional to suitability of the input midi file. 
+
+Regardless, in almost all cases the MMM algorithm is able to generate practially infinite coherent and stable procedurally generated song variations.
 
 &nbsp;
 
