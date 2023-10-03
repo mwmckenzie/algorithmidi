@@ -11,7 +11,10 @@ The <b>Micro Music Model (MMM)</b> that Algorithmidi uses behind the scenes is a
 &nbsp;
 
 ## Desktop Application In Development
-The Algorithmidi desktop application is currently in development with a demo version currently undergoing testing with a targeted Fall 2023 release. 
+The Algorithmidi desktop application is currently in development.
+
+### Demo App in Testing
+A demo version is currently undergoing testing with a targeted Fall 2023 release. 
 
 &nbsp;
 
