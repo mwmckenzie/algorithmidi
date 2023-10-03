@@ -1,7 +1,7 @@
 # Algorithmidi
 Algorithmidi is an application for creating and visualising procedurally generated songs from any arbitrary midi file in real-time.
 
-The song generation currently utilises a novel <b>Micro Music Model (MMM)</b> algorithm that trains on-demand using a single midi file in only a few seconds.
+Song generation within the application currently utilises a novel <b>Micro Music Model (MMM)</b> algorithm that trains on-demand using a single midi file in only a few seconds.
 
 &nbsp;
 
