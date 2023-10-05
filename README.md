@@ -115,6 +115,11 @@ Re-Generated Songs From Various Categories & Composers
 
 &nbsp;
 
+## Vivaldi
+[Playlist](https://www.bandlab.com/lt_commando/collections/af86b037-1d62-ee11-9937-000d3a41ec2a)
+
+&nbsp;
+
 ## Brahms
 [Playlist](https://www.bandlab.com/lt_commando/collections/b031a557-fa5e-ee11-9937-000d3a41ec2a)
 
