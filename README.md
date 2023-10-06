@@ -1,7 +1,9 @@
 
-# **Algorithmidi: The Future of Procedural Music Generation**
+# Algorithmidi
 
 &nbsp;
+
+## The Future of Procedural Music Generation
 
 **Algorithmidi** revolutionizes the realm of music creation by harnessing the power of its unique Micro Music Model (MMM) algorithm. This innovative tool grants artists and enthusiasts alike the ability to generate and visualize infinite song variations from any given MIDI file, all in real-time.
 
