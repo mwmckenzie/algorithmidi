@@ -29,7 +29,7 @@ Eager to witness the MMM in action? Algorithmidi's demo version is now in its te
 
 ## **Highlight Reel - Algorithmidi's Symphony of Variations**
 
-Algorithmidi has successfully transformed iconic pieces from Beethoven and Bach to Joplin and DrubecK. Each rendition is a testament to the MMM's adaptability and flair for innovation, whether it's giving a classic tune an electronic twist or introducing a new emotional depth to a contemporary track.
+Algorithmidi has successfully transformed iconic pieces from Beethoven and Bach to Joplin and Drubeck. Each rendition is a testament to the MMM's adaptability and flair for innovation, whether it's giving a classic tune an electronic twist or introducing a new emotional depth to a contemporary track.
 
 &nbsp;
 
