@@ -1,33 +1,40 @@
-# Algorithmidi
-Algorithmidi is an application for creating and visualising procedurally generated songs from any arbitrary midi file in real-time.
 
-Song generation within the application currently utilises a novel <b>Micro Music Model (MMM)</b> algorithm that trains on-demand using a single midi file in only a few seconds.
+# **Algorithmidi: The Future of Procedural Music Generation**
 
 &nbsp;
 
-## The Micro Music Model (MMM)
-The <b>Micro Music Model (MMM)</b> that Algorithmidi uses behind the scenes is a novel ML algorithm with an approach that is remarkably similar to modern Large Language Models (LLMs). 
+**Algorithmidi** revolutionizes the realm of music creation by harnessing the power of its unique Micro Music Model (MMM) algorithm. This innovative tool grants artists and enthusiasts alike the ability to generate and visualize infinite song variations from any given MIDI file, all in real-time.
 
-The significant difference between the MMM algorithm and current LLLMs is the ability for the MMM to train on a single example song locally and in real-time. Hence the 'Micro' in MMM.
-
-Being dependent on a single training example, the MMM output quality and the level of variation from the original song are proportional to suitability of the input midi file. 
-
-Regardless, in almost all cases the MMM algorithm is able to find a stable and coherent trained model from which it can procedurally generate effectively infinite song variations.
+Algorithmidi is not just an application; it's a musical movement. By seamlessly blending technology with the artistry of music, it paves the way for boundless creativity. Whether you're a seasoned composer or a curious listener, Algorithmidi invites you to a universe where the melodies are infinite and the possibilities are endless. Join us on this rhythmic journey and let your imagination soar!
 
 &nbsp;
 
-## Desktop Application In Development
-The Algorithmidi desktop application is currently in development.
+## **The Micro Music Model (MMM) - A Game-Changer in Music Generation**
+
+Drawing inspiration from the architecture of Large Language Models (LLMs), the Micro Music Model (MMM) stands out with its nimbleness and agility. Unlike conventional models that require extensive training on vast datasets, the MMM thrives on a single example. By training on just one MIDI song, it can swiftly understand, interpret, and then produce myriad variations of the piece. The term 'Micro' in its name alludes to its unique capability of fast, on-the-spot training, guaranteeing users a dynamic and interactive experience. The quality and diversity of the generated songs are intertwined with the chosen input, yet the MMM consistently showcases its prowess by delivering coherent and captivating musical outputs.
 
 &nbsp;
 
-### Demo App in Testing
-A demo version is currently undergoing testing with a targeted Fall 2023 release. 
+## **Desktop Application - Coming Soon**
+
+The full-fledged Algorithmidi desktop application, currently under rigorous development, aims to bring the MMM's potential directly to your workspace. This tool is projected to redefine how music creators ideate, compose, and experiment.
 
 &nbsp;
 
-# Example Songs
-Standout examples of well-known songs or interesting variational output
+## **Demo App - A Sneak Peek into Algorithmidi's Magic**
+
+Eager to witness the MMM in action? Algorithmidi's demo version is now in its testing phase. Stay tuned for its anticipated release in Fall 2023, which promises a glimpse into the groundbreaking functionalities the platform offers.
+
+&nbsp;
+
+## **Highlight Reel - Algorithmidi's Symphony of Variations**
+
+Algorithmidi has successfully transformed iconic pieces from Beethoven and Bach to Joplin and DrubecK. Each rendition is a testament to the MMM's adaptability and flair for innovation, whether it's giving a classic tune an electronic twist or introducing a new emotional depth to a contemporary track.
+
+&nbsp;
+
+## Example Songs
+Standout examples of well-known songs or interesting variational output:
 
 &nbsp;
 
