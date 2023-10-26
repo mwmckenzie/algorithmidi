@@ -90,76 +90,91 @@ Algorithmidi generates variations of a syncopated reinterpretation of a classic 
 
 Algorithmidi's *Symphony of Variations* demonstrates its ability to breathe new life into classic compositions and create unique, endlessly evolving musical experiences. It's an exciting showcase of AI's potential in the realm of music composition and variation.
 
-### Re-Generated Songs From Various Categories & Composers
+## Re-Generated Songs From Various Categories & Composers
+### 73 Total Songs
 
 &nbsp;
 
 ## Bach
+### 24 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/99b81844-a13d-ee11-b8f0-000d3a41ec20)
 
 &nbsp;
 
 ## Beethoven
+### 13 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/f4edb793-933f-ee11-b8f0-000d3a41ec20)
 
 &nbsp;
 
 ## Pachabel
+### 3 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/eed0649d-8241-ee11-b8f0-000d3a41ec20)
 
 &nbsp;
 
 ## Joplin
+### 2 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/28aadae2-834a-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Lizst
+### 2 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/92aaae3f-fa5e-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Mozart
+### 4 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/ec1d284e-065f-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Chopin
+### 3 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/13f3cefd-3560-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Vivaldi
+### 3 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/af86b037-1d62-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Brahms
+### 1 Song
 [Playlist](https://www.bandlab.com/lt_commando/collections/b031a557-fa5e-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Rachmaninov
+### 1 Song
 [Playlist](https://www.bandlab.com/lt_commando/collections/d94ea63e-ef73-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Jazz
+### 8 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/06b849a1-294c-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Covers (Modern)
+### 7 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/85bd1b56-205f-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Traditions & Holidays
+### 1 Song
 [Playlist](https://www.bandlab.com/lt_commando/collections/743e07c5-3260-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Soundtracks
+### 3 Songs
 [Playlist](https://www.bandlab.com/lt_commando/collections/5cd326cb-3965-ee11-9937-000d3a41ec2a)
 
 &nbsp;
