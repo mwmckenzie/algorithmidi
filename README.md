@@ -89,8 +89,8 @@ Algorithmidi generates variations of a syncopated reinterpretation of a classic 
 # Example Collections
 
 Algorithmidi's *Symphony of Variations* demonstrates its ability to breathe new life into classic compositions and create unique, endlessly evolving musical experiences. It's an exciting showcase of AI's potential in the realm of music composition and variation.
-
-**73 Total Songs**
+- **14 Collections**
+- **73 Total Songs**
 
 &nbsp;
 
