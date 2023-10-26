@@ -125,13 +125,13 @@ Algorithmidi's *Symphony of Variations* demonstrates its ability to breathe new 
 &nbsp;
 
 ## Mozart
-- Songs
+- 4 Songs
 - [Playlist](https://www.bandlab.com/lt_commando/collections/ec1d284e-065f-ee11-9937-000d3a41ec2a)
 
 &nbsp;
 
 ## Chopin
-- Songs
+- 3 Songs
 - [Playlist](https://www.bandlab.com/lt_commando/collections/13f3cefd-3560-ee11-9937-000d3a41ec2a)
 
 &nbsp;
