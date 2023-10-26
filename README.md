@@ -7,7 +7,7 @@
 
 **Algorithmidi** revolutionizes the realm of music creation by harnessing the power of its unique Micro Music Model (MMM) algorithm. This innovative tool grants artists and enthusiasts alike the ability to generate and visualize infinite song variations from any given MIDI file, all in real-time.
 
-Algorithmidi is not just an application; it's a musical movement. By seamlessly blending technology with the artistry of music, it paves the way for boundless creativity. Whether you're a seasoned composer or a curious listener, Algorithmidi invites you to a universe where the melodies are infinite and the possibilities are endless. Join us on this rhythmic journey and let your imagination soar!
+Algorithmidi is not just an application; it's a transformation for musical recomposition workflows. By seamlessly blending technology with the artistry of music, it paves the way for boundless creativity. Whether you're a seasoned composer or a curious listener, Algorithmidi invites you to a universe where the melodies are infinite and the possibilities are endless. Join us on this rhythmic journey and let your imagination soar!
 
 &nbsp;
 
