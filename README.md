@@ -139,6 +139,11 @@ Algorithmidi's *Symphony of Variations* demonstrates its ability to breathe new 
 
 &nbsp;
 
+## Rachmaninov
+[Playlist](https://www.bandlab.com/lt_commando/collections/d94ea63e-ef73-ee11-9937-000d3a41ec2a)
+
+&nbsp;
+
 ## Jazz
 [Playlist](https://www.bandlab.com/lt_commando/collections/06b849a1-294c-ee11-9937-000d3a41ec2a)
 
@@ -158,3 +163,6 @@ Algorithmidi's *Symphony of Variations* demonstrates its ability to breathe new 
 [Playlist](https://www.bandlab.com/lt_commando/collections/5cd326cb-3965-ee11-9937-000d3a41ec2a)
 
 &nbsp;
+
+
+
