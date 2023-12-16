@@ -1,6 +1,3 @@
-# Algorhythmidi
-
-&nbsp;
 
 [![Algorhythmidi on Youtube](http://img.youtube.com/vi/kPm2oxv6crY/0.jpg)](http://www.youtube.com/watch?v=kPm2oxv6crY "Fugue Generation in G Minor")
 
