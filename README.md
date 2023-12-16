@@ -1,16 +1,16 @@
-# Algorithmidi
+# Algorhythmidi
 
 &nbsp;
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kPm2oxv6crY?si=8nG8U1MrFRKbh0Gj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Algorhythmidi on Youtube](http://img.youtube.com/vi/kPm2oxv6crY/0.jpg)](http://www.youtube.com/watch?v=kPm2oxv6crY "Fugue Generation in G Minor")
 
 &nbsp;
 
 ## The Future of Procedural Music Generation
 
-**Algorithmidi** revolutionizes the realm of music creation by harnessing the power of its unique Micro Music Model (MMM) algorithm. This innovative tool grants artists and enthusiasts alike the ability to generate and visualize infinite song variations from any given MIDI file, all in real-time.
+**Algorhythmidi** revolutionizes the realm of music creation by harnessing the power of its unique Micro Music Model (MMM) algorithm. This innovative tool grants artists and enthusiasts alike the ability to generate and visualize infinite song variations from any given MIDI file, all in real-time.
 
-Algorithmidi is not just an application; it's a transformation for musical recomposition workflows. By seamlessly blending technology with the artistry of music, it paves the way for boundless creativity. Whether you're a seasoned composer or a curious listener, Algorithmidi invites you to a universe where the melodies are infinite and the possibilities are endless. Join us on this rhythmic journey and let your imagination soar!
+Algorhythmidi is not just an application; it's a transformation for musical recomposition workflows. By seamlessly blending technology with the artistry of music, it paves the way for boundless creativity. Whether you're a seasoned composer or a curious listener, Algorithmidi invites you to a universe where the melodies are infinite and the possibilities are endless. Join us on this rhythmic journey and let your imagination soar!
 
 &nbsp;
 
@@ -22,19 +22,19 @@ Drawing inspiration from the architecture of Large Language Models (LLMs), the M
 
 ## **Desktop Application - Coming Soon**
 
-The full-fledged Algorithmidi desktop application, currently under rigorous development, aims to bring the MMM's potential directly to your workspace. This tool is projected to redefine how music creators ideate, compose, and experiment.
+The full-fledged Algorhythmidi desktop application, currently under rigorous development, aims to bring the MMM's potential directly to your workspace. This tool is projected to redefine how music creators ideate, compose, and experiment.
 
 &nbsp;
 
 ## **Demo App - A Sneak Peek into Algorithmidi's Magic**
 
-Eager to witness the MMM in action? Algorithmidi's demo version is now in its testing phase. Stay tuned for its anticipated release in Fall 2023, which promises a glimpse into the groundbreaking functionalities the platform offers.
+Eager to witness the MMM in action? Algorhythmidi's demo version is now in its testing phase. Stay tuned for its anticipated release in Fall 2023, which promises a glimpse into the groundbreaking functionalities the platform offers.
 
 &nbsp;
 
-## **Highlight Reel - Algorithmidi's Symphony of Variations**
+## **Highlight Reel - Algorhythmidi's Symphony of Variations**
 
-Algorithmidi has successfully transformed iconic pieces from Beethoven and Bach to Joplin and Drubeck. Each rendition is a testament to the MMM's adaptability and flair for innovation, whether it's giving a classic tune an electronic twist or introducing a new emotional depth to a contemporary track.
+Algorhythmidi has successfully transformed iconic pieces from Beethoven and Bach to Joplin and Drubeck. Each rendition is a testament to the MMM's adaptability and flair for innovation, whether it's giving a classic tune an electronic twist or introducing a new emotional depth to a contemporary track.
 
 &nbsp;
 
@@ -47,7 +47,7 @@ It's fascinating to see how Algorithmidi has reimagined and recreated a growing 
 
 ### Pachabel's Canon
 
-Algorithmidi takes the well-known "Pachelbel's Canon" and transforms it into a 15-minute playthrough with non-repeating fractal variations, showcasing the algorithm's ability to create unique and endless variations of a classic piece.
+Algorhythmidi takes the well-known "Pachelbel's Canon" and transforms it into a 15-minute playthrough with non-repeating fractal variations, showcasing the algorithm's ability to create unique and endless variations of a classic piece.
 
 [Generation 1](https://www.bandlab.com/lt_commando/generating-pachabel-canon-03-bb776092?revId=1d99c664-f73f-ee11-b8f0-000d3a41ec20)
 
@@ -65,7 +65,7 @@ Despite the intricate and complex nature of Bach's "Toccata and Fugue in D Minor
 
 ### Bach's Invention Series
 
-Algorithmidi explores Bach's Invention series, which is less well-known but still distinguishable. The shortness of these compositions makes it easy to observe the variations generated by the algorithm and its 'endless' capabilities.
+Algorhythmidi explores Bach's Invention series, which is less well-known but still distinguishable. The shortness of these compositions makes it easy to observe the variations generated by the algorithm and its 'endless' capabilities.
 
 [Invention 8 - Generation 1](https://www.bandlab.com/lt_commando/generating-bach-invention-08-01-b175276c?revId=04606437-244c-ee11-9937-000d3a41ec2a)
 
@@ -81,7 +81,7 @@ Algorithmidi explores Bach's Invention series, which is less well-known but stil
 
 Ride the musical tiger.
 
-Algorithmidi generates variations of a syncopated reinterpretation of a classic movie track by creating two versions, one from the right-hand channel (piano) and the other from the left-hand channel. These variations offer subtle yet distinct differences in the music.
+Algorhythmidi generates variations of a syncopated reinterpretation of a classic movie track by creating two versions, one from the right-hand channel (piano) and the other from the left-hand channel. These variations offer subtle yet distinct differences in the music.
 
 [Oculus of the Jungle Cat - Variation 1](https://www.bandlab.com/post/9c3902ff-ad6c-ee11-9937-000d3a41ec2a)
 
@@ -91,7 +91,7 @@ Algorithmidi generates variations of a syncopated reinterpretation of a classic 
 
 # Example Collections
 
-Algorithmidi's *Symphony of Variations* demonstrates its ability to breathe new life into classic compositions and create unique, endlessly evolving musical experiences. It's an exciting showcase of procedural generation and AI's potential in the realm of music composition and variation.
+Algorhythmidi's *Symphony of Variations* demonstrates its ability to breathe new life into classic compositions and create unique, endlessly evolving musical experiences. It's an exciting showcase of procedural generation and AI's potential in the realm of music composition and variation.
 - **14 Collections**
 - **73 Total Songs**
 
